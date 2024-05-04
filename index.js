@@ -1,5 +1,3 @@
-const RESOLUTION = 800;
-
 let canvas;
 let ctxt;
 
